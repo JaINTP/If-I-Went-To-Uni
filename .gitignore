@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Except .gitignore itself
+!.gitignore
+
+# Except markdown files
+!*.md
+
+# Allow directories but not their contents
+!*/
+
+# Ignore everything inside the directories
+*/*
