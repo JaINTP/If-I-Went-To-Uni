@@ -1,8 +1,9 @@
-# If-I-Went-To-Uni: Computer Science and Engineering Assignments
+# If-I-Went-To-Uni: Computer Science, Data Analysis and Engineering Assignments
 
 ## Welcome
 
 This repository is a collection of my personal journey through various Computer Science and Engineering assignments that I find online. These assignments, presented in PDF format, are tackled purely for fun and to challenge myself. Each folder represents a different educational institution, with subfolders containing individual assignments, the problem statement (in PDF format), and my solution.
+All assignments have been found available online as I do not attend any of these educational institutions.
 
 ## How to Use This Repository
 
