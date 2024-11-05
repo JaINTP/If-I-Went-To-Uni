@@ -4,3 +4,6 @@
 [submodule "USQ/CSC1401/Assignment-3-S1-2023"]
 	path = USQ/CSC1401/Assignment-3-S1-2023
 	url = https://github.com/jaintp/Assignment-3-S1-2023.git
+[submodule "USQ/CSC1401/Assignment-3-T3-2024"]
+	path = USQ/CSC1401/Assignment-3-T3-2024
+	url = https://github.com/JaINTP/Assignment-3-T3-2024.git
